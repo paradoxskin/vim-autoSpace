@@ -7,3 +7,5 @@
 ```vim
 noremap <your_key> :call AutoSpace()<CR>
 ```
+
+反转了，我成空格星人了，不需要自动执行了，自己的手已经能自动执行了
